@@ -27,3 +27,12 @@ Kontrol:
 ```  
 
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/a28f7534-d829-4f4e-8ed4-74e1257958f0" />
+
+
+### face_detection.py
+```bash
+python -m pip install opencv-python
+```  
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/445f1d1f-3f66-4214-93bc-691d6840aca5" />
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/367a4e8a-008d-461a-8de5-62bebdb5ee35" />
