@@ -36,3 +36,14 @@ python -m pip install opencv-python
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/445f1d1f-3f66-4214-93bc-691d6840aca5" />
 
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/367a4e8a-008d-461a-8de5-62bebdb5ee35" />
+
+### hand_tracker.py
+```bash
+python -m pip install opencv-python
+python -m pip install opencv-python mediapipe
+``` 
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/1298d44b-2d3c-4335-bd82-f5a99e14da97" />
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/c2b73a1c-78a1-4c8e-9aee-1e50a0ce11bf" />
+
+
