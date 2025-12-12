@@ -77,7 +77,7 @@ Bu temel yapı üzerine pek çok gelişmiş özellik eklenebilir:
 
 ## Önemli Not – Kamera Flashı / LED Işığı Hakkında
 
-Laptop bilgisayarlarda dahili kameraların yanındaki LED ışığı yazılımla kapatılamaz. Bu ışık üretici tarafından güvenlik amacıyla kamera aktif olduğunda otomatik olarak yanacak şekilde donanımsal olarak tasarlanmıştır.
+Laptop bilgisayarlarda dahili kameraların yanındaki LED ışığı bulunmaktadır. Bu ışık üretici tarafından güvenlik amacıyla kamera aktif olduğunda otomatik olarak yanacak şekilde donanımsal olarak tasarlanmıştır.
 
 Bu nedenle gizli veya LED göstermeden kayıt almak için:
 
