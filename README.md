@@ -59,3 +59,8 @@ belirttiğin bir klasör içindeki duplicate (aynı) dosyaları silen sade ve g�
 Mantık: Dosyaların hash (SHA256) değerini alır, birebir aynı olanlardan sadece birini bırakır.
 
 Bu yöntem dosya adına değil içeriğine bakar, en sağlıklısıdır.
+
+### secure_file_verifier.py
+
+Kriptografik karma fonksiyonları kullanarak dosya bütünlüğünü doğrulayan hafif bir Python yardımcı programı.
+Depolanmış ve mevcut karma değerlerini karşılaştırarak yetkisiz değişiklikleri tespit eder.
