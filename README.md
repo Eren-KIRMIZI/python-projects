@@ -86,5 +86,5 @@ Depolanmış ve mevcut karma değerlerini karşılaştırarak yetkisiz değişik
 - PyQt5 kütüphanesini yüklemek için:
   ```bash
   pip install PyQt5
-
-  <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/6eb7ffc8-4408-4deb-96a7-760cc8726428" />
+  ``` 
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/6eb7ffc8-4408-4deb-96a7-760cc8726428" />
