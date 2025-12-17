@@ -1,5 +1,4 @@
 
-
 ### qr_code_generator.py
 
 **Required libraries:**
@@ -82,9 +81,51 @@ Depolanmış ve mevcut karma değerlerini karşılaştırarak yetkisiz değişik
 - Otomatik kayıt ve önceki oturumu geri yükleme
 - Pencere boyutu ve konum bilgisini hatırlama
 
+
 ## Kurulum
 - PyQt5 kütüphanesini yüklemek için:
   ```bash
   pip install PyQt5
   ``` 
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/6eb7ffc8-4408-4deb-96a7-760cc8726428" />
+
+
+### keylogger.py
+
+- Eğitim amaçlı geliştirilmiş basit bir keylogger uygulaması. Klavye tuşlarını kaydeder ve belirli aralıklarla e-posta ile gönderir.
+
+## Uyarı
+
+Bu proje **yalnızca eğitim amaçlıdır**. Başkalarının cihazlarında izinsiz kullanımı **yasadışıdır** ve ciddi hukuki sonuçları vardır. Sadece kendi cihazınızda ve yasal amaçlarla kullanın.
+
+## Özellikler
+
+- Klavye tuşlarını gerçek zamanlı olarak kaydeder
+- Basılan tuşları tarih/saat damgası ile txt dosyasına yazar
+- Belirlenen süre aralıklarında logları e-posta ile gönderir
+- Mail gönderildikten sonra log dosyasını temizler
+
+
+## Kurulum
+
+1. Repoyu klonlayın:
+```bash
+git clone https://github.com/kullanici-adiniz/keylogger-project.git
+cd keylogger-project
+```
+
+2. Gerekli kütüphaneyi yükleyin:
+```bash
+pip install keyboard
+```
+
+3. Gmail uygulama şifresi oluşturun:
+   - Gmail hesabınızda 2 adımlı doğrulamayı açın
+   - [Google Uygulama Şifreleri](https://myaccount.google.com/apppasswords) sayfasından şifre oluşturun
+
+4. Kod içindeki mail ayarlarını düzenleyin:
+```python
+mail.login('sizin-mail@gmail.com', 'UYGULAMA_ŞİFRENİZ')
+```
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/5c2ef516-07fa-4ea3-8006-1490b5a18f14" />
