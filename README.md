@@ -131,3 +131,12 @@ mail.login('sizin-mail@gmail.com', 'UYGULAMA_ŞİFRENİZ')
 
 
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/5c2ef516-07fa-4ea3-8006-1490b5a18f14" />
+
+
+### keylogger2.py
+
+- Eğitim amaçlı geliştirilmiş basit bir keylogger uygulaması. Bu sefer ses kaydı yapıyor. 
+
+<img width="960" height="501" alt="image" src="https://github.com/user-attachments/assets/2384d368-abef-4adc-bebe-a779d227a35c" />
+
+[audio_20260216_112000.wav](https://github.com/user-attachments/files/25335091/audio_20260216_112000.wav)
